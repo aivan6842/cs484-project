@@ -162,3 +162,6 @@ cython_debug/
 country211/
 country212/
 lhq_256/
+runs/
+lhq_256_1/
+swimseg-2/
